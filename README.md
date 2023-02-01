@@ -3,4 +3,4 @@ Template is training on HTML and CSS
 
 ## This Template From Leon
 - We used Grid In masjorty Of Sections
-- We used Flex Another
+- We used Flex Too
